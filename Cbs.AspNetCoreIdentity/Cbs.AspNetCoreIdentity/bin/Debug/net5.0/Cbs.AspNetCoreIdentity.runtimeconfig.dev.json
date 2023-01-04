@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\cenap.varol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\cenap.varol\\.nuget\\packages"
+    ]
+  }
+}
